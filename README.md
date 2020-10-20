@@ -1,6 +1,8 @@
 # interactive_augmentations
 
 interactive_augmentations is a package allowing to explore Albumentations' augmentations in Jupyter Notebook.
+![alt text](https://github.com/wojciech-malinowski/interactive_augmentations/blob/main/examples/example.jpg)
+
 
 ## Installation
 
