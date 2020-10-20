@@ -1,0 +1,5 @@
+ipywidgets==7.5.1
+albumentations==0.4.5
+opencv_python==4.1.1.26
+ipython==7.18.1
+PyYAML==5.3.1
